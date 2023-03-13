@@ -4,6 +4,6 @@
 
 The specialization consists of five courses, including
 
-    1. [Introduction to Data Science in Python]([https://www.coursera.org/learn/python-data-analysis](https://www.coursera.org/learn/python-data-analysis)),
+    1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis),
     
  
