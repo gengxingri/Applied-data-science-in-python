@@ -4,6 +4,6 @@
 
 The specialization consists of five courses, including
 
-    1. [Introduction to Data Science in Python](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=RZ1S0B0MEeacvQ6cODzg5Q&productType=course&showMiniModal=true),
+    1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis),
     
  
