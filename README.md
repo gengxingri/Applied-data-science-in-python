@@ -8,7 +8,7 @@ The specialization consists of five courses, including
 
    1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis),
 
-   2. [Applied Plotting Charting Data Representation](https://www.coursera.org/programs/national-university-of-singapore-on-coursera-bm9c5?authProvider=nus&currentTab=MY_COURSES&productId=IIoidx0zEeaeiw6Wrvtw9w&productType=course&showMiniModal=true),
+   2. [Applied Plotting Charting Data Representation](https://www.coursera.org/learn/python-plotting),
    
    3.
     
