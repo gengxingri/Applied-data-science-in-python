@@ -1,9 +1,9 @@
 # Applied-data-science-in-python
 
-   This repo consists of the Coursera Specialization - Applied-data-science-in-python, which is available on Coursera offered by University of Michigan.
 
-The specialization consists of five courses, including
+This repo consists of the Coursera Specialization - Applied-data-science-in-python, which is available on Coursera offered by University of Michigan.
 
-    1. [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis),
+
+The specialization consists of five courses, including [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis),
     
  
